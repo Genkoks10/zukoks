@@ -1,0 +1,11 @@
+to,subject,body,html_body,cc,bcc
+user1@example.com,Welcome to Our Service,Hello user1! Welcome aboard.,<h1>Welcome!</h1><p>Hello user1! Welcome to our service.</p>,,
+user2@example.com,Welcome to Our Service,Hello user2! Welcome aboard.,<h1>Welcome!</h1><p>Hello user2! Welcome to our service.</p>,,
+user3@example.com,Welcome to Our Service,Hello user3! Welcome aboard.,<h1>Welcome!</h1><p>Hello user3! Welcome to our service.</p>,,
+user4@example.com,Welcome to Our Service,Hello user4! Welcome aboard.,<h1>Welcome!</h1><p>Hello user4! Welcome to our service.</p>,,
+user5@example.com,Welcome to Our Service,Hello user5! Welcome aboard.,<h1>Welcome!</h1><p>Hello user5! Welcome to our service.</p>,,
+user6@example.com,Welcome to Our Service,Hello user6! Welcome aboard.,<h1>Welcome!</h1><p>Hello user6! Welcome to our service.</p>,,
+user7@example.com,Welcome to Our Service,Hello user7! Welcome aboard.,<h1>Welcome!</h1><p>Hello user7! Welcome to our service.</p>,,
+user8@example.com,Welcome to Our Service,Hello user8! Welcome aboard.,<h1>Welcome!</h1><p>Hello user8! Welcome to our service.</p>,,
+user9@example.com,Welcome to Our Service,Hello user9! Welcome aboard.,<h1>Welcome!</h1><p>Hello user9! Welcome to our service.</p>,,
+user10@example.com,Welcome to Our Service,Hello user10! Welcome aboard.,<h1>Welcome!</h1><p>Hello user10! Welcome to our service.</p>,,
